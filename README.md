@@ -7,10 +7,8 @@
 Kinnow was a startup
 
 
-### Video Mockup
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=LT72UCeYAf8" target="_blank">
-  <img src="" alt="Video" width="240" height="180" border="10"/>
-</a>
+**Video Mockup** -
+The short video mockup is available [here](https://youtu.be/LT72UCeYAf8).
 
 
 **Author** -
