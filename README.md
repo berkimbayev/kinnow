@@ -14,6 +14,14 @@ Kinnow was a startup I was working on between March and August 2019 (before COVI
 (soon)
 
 #
+### Software
+<p align="center">
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/software.png" alt="Software"/>
+</p>
+
+(soon)
+
+#
 **Video Mockup.** The short video mockup is available [here](https://youtu.be/LT72UCeYAf8).
 
 #
