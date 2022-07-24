@@ -14,22 +14,36 @@ Kinnow was a startup I was working on between March and August 2019 (before COVI
 (soon)
 
 #
-### Software
+### Software and Experience
+<p>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/18.jpg" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/17.jpg" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/16.jpg" alt="Software" width="32%"/>
+</p>
+
+In traditional movie theaters, each projection system is managed on an individual machine, by an individual technician. Additionally, all ticket sales are managed on a separate computer, by a manager. In Kinnow, the goal was to develop a proprietary software to manage all screens and all sales from one computer, by one person. This theater management system (or TMS) should be connected to consumer apps (on iOS and Android) and touchscreens inside the theater. The theater guests can buy tickets using these apps and touchscreens. There should be no cashiers, no ushers, no queues, and no paper tickets. Only turnstiles similar to those in subways. To enter a theater, guests need to scan their digital tickets.
+
+This fully digital experience contributes to the overall futuristic feel of the theater. In the current era of streaming services, there is more and more understanding that movie theaters are not about movies but the experience and atmosphere. 
+
 <p align="center">
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/software.png" alt="Software"/>
 </p>
 
-In traditional movie theaters, each projection system is managed on an individual machine, by an individual technician. Additionally, all ticket sales are managed on a separate computer, by a manager. In Kinnow, the goal was to develop a proprietary software to manage all screens and all sales from one computer, by one person. This theater management system (or TMS) should be connected to consumer apps (on iOS and Android) and touchscreens inside the theater. The theater guests can buy tickets using these apps and touchscreens. There should be no cashiers, no ushers, and no queues.
-
 #
-### Seating
+### Sci-Fi Seating
 <p>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-01.jpg" alt="Seating" width="33%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-02.jpg" alt="Seating" width="33%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-03.jpg" alt="Seating" width="33%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-01.jpg" alt="Seating" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-02.jpg" alt="Seating" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-03.jpg" alt="Seating" width="32%"/>
 </p>
 
-The proprietary seating design for this theater was insired by the works of Dieter Rams and classic sci-fi movies.
+The proprietary seating design for this theater was insired by the works of Dieter Rams and classic sci-fi movies. The seating's design should be futuristic so that the whole theater feels like a spaceship. Before the movie starts, there should be a short video that contributes to these feelings. During this video, all seats should recline as if the spaceship prepares to leave this planet.
+
+<p>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-04.jpg" alt="Seating" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-05.jpg" alt="Seating" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-06.jpg" alt="Seating" width="32%"/>
+</p>
 
 #
 **Video Mockup.** The short video mockup is available [here](https://youtu.be/LT72UCeYAf8).
@@ -41,10 +55,10 @@ The proprietary seating design for this theater was insired by the works of Diet
 **Contributors.** Any contributions to this project are welcomed.
 
 #
-**License.** This project is distributed under a [Creative Commons](https://creativecommons.org/licenses/by/4.0/) license.
+**License.** This project is distributed under a [Creative Commons](https://creativecommons.org/share-your-work/public-domain/) license.
 
 <p>
-  <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="License" width="100px">
+  <img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" alt="License" width="100px">
 </p>
 
 #
