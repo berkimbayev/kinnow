@@ -1,6 +1,6 @@
 # kinnow
 Another approach to design movie theaters
 
-## License
+### License
 
-## Contributors
+### Contributors
