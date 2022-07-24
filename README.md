@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/wordmark%20(o).png" alt="Logotype" width="400px"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/wordmark%20(o).png" alt="Logotype" width="400px"/>
   <h3 align="center">The Cinema of the Future</h3>
 </p>
 
