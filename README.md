@@ -6,7 +6,7 @@
 
 #
 ### Background Story
-Kinnow was a startup I was working on between February and August 2019. The goal was to develop a new approach to design and build movie theaters. There was no projection system. Only a bright and colorful LED-display - set at an optimal angle, slightly above the audience. This solution solves 3 major drawbacks of existing theaters: (a) distraction, (b) discomfort, (c) inequality between the rows and seats. Additionally, it was possible to develop a proprietary software to manage all screens and ticket sales from one computer. The business model was to license a theater design, a software, and a brand (which is similar to IMAX). But the startup failed and now it's an open source project.
+Kinnow was a startup I was working on between February and August 2019. The goal was to develop a new approach to design and build movie theaters. There was no projection system. Only a bright and colorful LED-display - set at an optimal angle, slightly above the audience. This solution solves 3 major drawbacks of existing theaters: (a) distraction, (b) discomfort, (c) inequality between the rows and seats. Additionally, it was possible to develop a proprietary software to manage all screens and ticket sales from one computer. The business model was to license a theater design, a software, and a brand to movie distributors around the world (which is similar to IMAX and Dolby Cinema). But this startup failed and now it's an open source project.
 
 #
 ### Full description
