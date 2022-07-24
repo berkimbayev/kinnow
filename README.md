@@ -10,14 +10,53 @@
 Kinnow was a startup I was working on between March and August 2019 (before COVID-19). The goal was to develop a new approach to design and build movie theaters. There was no projection system. Only a bright and colorful LED-display - set at an optimal angle, slightly above the audience. This solution solves 3 major drawbacks of existing theaters: (a) distraction, (b) discomfort, (c) inequality between the rows and seats. Additionally, it was possible to develop a proprietary software to manage all screens and ticket sales from one computer. The business model was to license a theater design, a software, and a brand to movie distributors around the world (which is similar to IMAX and Dolby Cinema). But this startup failed and now it's an open source project.
 
 #
-### Full description
+### Traditional Design
+<p>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/06.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/05.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/04.png" alt="Software" width="32%"/>
+</p>
+<p>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/03.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/02.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/01.png" alt="Software" width="32%"/>
+</p>
+
 (soon)
+
+
+#
+### Traditional Solutions
+<p>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/09.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/08.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/07.png" alt="Software" width="32%"/>
+</p>
+
+(soon)
+
+
+#
+### Kinnow Design
+<p>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/12.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/11.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/10.png" alt="Software" width="32%"/>
+</p>
+<p>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/15.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/14.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/13.png" alt="Software" width="32%"/>
+</p>
+
+(soon)
+
 
 #
 ### Software and Experience
 <p>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/20.png" alt="Software" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/18.png" alt="Software" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/17.png" alt="Software" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/16.png" alt="Software" width="32%"/>
 </p>
 
