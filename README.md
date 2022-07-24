@@ -1,4 +1,6 @@
-![image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![image](https://github.com/berkimbayev/kinnow/blob/main/wordmark%20(o).png)
+
 
 Another approach to design movie theaters
 
