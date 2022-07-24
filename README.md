@@ -41,7 +41,7 @@ The proprietary seating design for this theater was insired by the works of Diet
 **Contributors.** Any contributions to this project are welcomed.
 
 #
-**License.** This project is distributed under a [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) international license.
+**License.** This project is distributed under a [Creative Commons](https://creativecommons.org/licenses/by/4.0/) license.
 
 <p>
   <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="License" width="100px">
