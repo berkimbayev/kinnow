@@ -13,25 +13,22 @@ Kinnow was a startup I was working on between February and August 2019. The goal
 (soon)
 
 #
-**Video Mockup** -
-The short video mockup is available [here](https://youtu.be/LT72UCeYAf8).
+**Video Mockup.** The short video mockup is available [here](https://youtu.be/LT72UCeYAf8).
 
 #
-**Author** -
-This project was created by [Nurzhan Berkimbayev](https://github.com/berkimbayev/). For any inquiries, please feel free to contact me in [LinkedIn](https://www.linkedin.com/in/berkimbayev/) or [Telegram](https://t.me/nurzhanberkimbayev/).
+**Author.** This project was created by [Nurzhan Berkimbayev](https://github.com/berkimbayev/). For any inquiries, please feel free to contact me in [LinkedIn](https://www.linkedin.com/in/berkimbayev/) or [Telegram](https://t.me/nurzhanberkimbayev/).
 
 #
-**Contributors** -
-Any contributions to this project are welcomed.
+**Contributors.** Any contributions to this project are welcomed.
 
 #
-**License** -
-This project is distributed under a [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) international license.
+**License.** This project is distributed under a [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) international license.
+
+<p>
+  <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="License" width="100px">
+</p>
 
 #
 <p align="center">
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/brandmark.png" alt="Logotype" width="200px"/>
-</p>
-<p align="center">
-  <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="License" width="100px">
 </p>
