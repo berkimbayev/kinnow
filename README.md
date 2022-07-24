@@ -17,7 +17,7 @@ Kinnow was a startup I was working on between March and August 2019 (before COVI
 **Video Mockup.** The short video mockup is available [here](https://youtu.be/LT72UCeYAf8).
 
 #
-**Author.** This project was created by [Nurzhan Berkimbayev](https://github.com/berkimbayev/). For any inquiries, please feel free to contact me in [LinkedIn](https://www.linkedin.com/in/berkimbayev/) or [Telegram](https://t.me/nurzhanberkimbayev/).
+**Author.** This project was created by [Nurzhan Berkimbayev](https://github.com/berkimbayev/). For any inquiries, please feel free to contact me in [LinkedIn](https://www.linkedin.com/in/berkimbayev/), [Telegram](https://t.me/nurzhanberkimbayev/), or email berkimbayev@gmail.com
 
 #
 **Contributors.** Any contributions to this project are welcomed.
