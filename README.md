@@ -24,9 +24,9 @@ In traditional movie theaters, each projection system is managed on an individua
 #
 ### Seating
 <p>
-  <img src="" alt="Seating" width="33%"/>
-  <img src="" alt="Seating" width="33%"/>
-  <img src="" alt="Seating" width="33%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-01.jpg" alt="Seating" width="33%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-02.jpg" alt="Seating" width="33%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-03.jpg" alt="Seating" width="33%"/>
 </p>
 
 The proprietary seating design for this theater was insired by the works of Dieter Rams and classic sci-fi movies.
