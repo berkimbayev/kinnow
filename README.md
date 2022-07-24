@@ -12,14 +12,17 @@ Kinnow was a startup I was working on between March and August 2019 (before COVI
 #
 ### Traditional Design
 <p>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/06.png" alt="Software" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/05.png" alt="Software" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/04.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/06.png" alt="" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/05.png" alt="" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/04.png" alt="" width="32%"/>
 </p>
+
+(soon)
+
 <p>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/03.png" alt="Software" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/02.png" alt="Software" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/01.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/03.png" alt="" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/02.png" alt="" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/01.png" alt="" width="32%"/>
 </p>
 
 (soon)
@@ -28,9 +31,9 @@ Kinnow was a startup I was working on between March and August 2019 (before COVI
 #
 ### Traditional Solutions
 <p>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/09.png" alt="Software" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/08.png" alt="Software" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/07.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/09.png" alt="" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/08.png" alt="" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/07.png" alt="" width="32%"/>
 </p>
 
 (soon)
@@ -39,14 +42,17 @@ Kinnow was a startup I was working on between March and August 2019 (before COVI
 #
 ### Kinnow Design
 <p>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/12.png" alt="Software" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/11.png" alt="Software" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/10.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/12.png" alt="" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/11.png" alt="" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/10.png" alt="" width="32%"/>
 </p>
+
+(soon)
+
 <p>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/15.png" alt="Software" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/14.png" alt="Software" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/13.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/15.png" alt="" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/14.png" alt="" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/13.png" alt="" width="32%"/>
 </p>
 
 (soon)
