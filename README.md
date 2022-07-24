@@ -16,9 +16,9 @@ Kinnow was a startup I was working on between March and August 2019 (before COVI
 #
 ### Software and Experience
 <p>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/18.jpg" alt="Software" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/17.jpg" alt="Software" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/16.jpg" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/18.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/17.png" alt="Software" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/16.png" alt="Software" width="32%"/>
 </p>
 
 In traditional movie theaters, each projection system is managed on an individual machine, by an individual technician. Additionally, all ticket sales are managed on a separate computer, by a manager. In Kinnow, the goal was to develop a proprietary software to manage all screens and all sales from one computer, by one person. This theater management system (or TMS) should be connected to consumer apps (on iOS and Android) and touchscreens inside the theater. The theater guests can buy tickets using these apps and touchscreens. There should be no cashiers, no ushers, no queues, and no paper tickets. Only turnstiles similar to those in subways. To enter a theater, guests need to scan their digital tickets.
@@ -38,12 +38,6 @@ This fully digital experience contributes to the overall futuristic feel of the 
 </p>
 
 The proprietary seating design for this theater was insired by the works of Dieter Rams and classic sci-fi movies. The seating's design should be futuristic so that the whole theater feels like a spaceship. Before the movie starts, there should be a short video that contributes to these feelings. During this video, all seats should recline as if the spaceship prepares to leave this planet.
-
-<p>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-04.jpg" alt="Seating" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-05.jpg" alt="Seating" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-06.jpg" alt="Seating" width="32%"/>
-</p>
 
 #
 **Video Mockup.** The short video mockup is available [here](https://youtu.be/LT72UCeYAf8).
