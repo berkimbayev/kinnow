@@ -25,5 +25,4 @@ This project is distributed under a [Creative Commons Attribution 4.0 (CC BY 4.0
 <p align="center">
   <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="License" width="100px">
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/wordmark.png" alt="Logotype" width="200px"/>
-  <h3 align="center">The Cinema of the Future</h3>
 </p>
