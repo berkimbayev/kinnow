@@ -113,19 +113,36 @@ It is to be appreciated that the foregoing paragraphs have been provided by way 
 
 FIG. 1 is an elevation view, sectioned by a vertical plane, of an exemplary embodiment of traditional movie theater configuration. This figure is labeled PRIOR ART.
 
+![Figure1](https://github.com/berkimbayev/kinnow/blob/main/Patent/1.png)
+
 FIG. 2 is an elevation view, sectioned by a vertical plane, of an exemplary embodiment incorporating three middle rows of the traditional movie theater. This figure is labeled PRIOR ART.
+
+![Figure2](https://github.com/berkimbayev/kinnow/blob/main/Patent/2.png)
 
 FIG. 3 is an elevation view, sectioned by a vertical plane, of an exemplary embodiment of present day movie theater configuration. This figure is labeled PRIOR ART.
 
+![Figure3](https://github.com/berkimbayev/kinnow/blob/main/Patent/3.png)
+
 FIG. 4 is an elevation view, sectioned by a vertical plane, of an exemplary embodiment incorporating three middle rows of the present day movie theater. This figure is labeled PRIOR ART.
+
+![Figure4](https://github.com/berkimbayev/kinnow/blob/main/Patent/4.png)
 
 FIG. 5 is an elevation view, sectioned by a vertical plane, of an exemplary embodiment of ergonomic movie theater configuration.
 
+![Figure6](https://github.com/berkimbayev/kinnow/blob/main/Patent/5.png)
+
 FIG. 6 is an elevation view, sectioned by a vertical plane, of an exemplary embodiment incorporating three middle rows of the ergonomic movie theater.
+
+![Figure6](https://github.com/berkimbayev/kinnow/blob/main/Patent/6.png)
 
 FIG. 7A, FIG. 7B, and FIG. 7C are the elevation views, sectioned by a vertical plane, of the exemplary embodiments incorporating the foremost row, the middle row, and the rearmost row of the ergonomic movie theater respectively.
 
+![Figure7](https://github.com/berkimbayev/kinnow/blob/main/Patent/7.png)
+
 FIG. 8A and FIG. 8B are the elevation views, sectioned by a vertical plane, of various exemplary embodiments of the auditoriums incorporating ergonomic movie theater configuration.
+
+![Figure8a](https://github.com/berkimbayev/kinnow/blob/main/Patent/8a.png)
+![Figure8b](https://github.com/berkimbayev/kinnow/blob/main/Patent/8b.png)
 
 
 
