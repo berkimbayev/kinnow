@@ -52,9 +52,9 @@ Original triples                        Same triples but multiplied
 ```
 
 
-###
 
 ###
+
 
 
 ```
