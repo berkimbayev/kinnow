@@ -78,7 +78,7 @@ With the improvements in image projection technology, present day movie theater 
 
 2. Since the screen is still positioned vertically in front of the audience, the theater patrons should keep their heads almost upright watching a movie. During a prolonged sitting, this posture induces discomfort, no matter how comfortable the seats are.
 
-3.With the increased slope of the audience area, there may be fewer rows or less space for each row. Additionally, the legs of the theater patrons may be on the same level as the heads of other patrons sitting in the front row. This causes even more discomfort.
+3. With the increased slope of the audience area, there may be fewer rows or less space for each row. Additionally, the legs of the theater patrons may be on the same level as the heads of other patrons sitting in the front row. This causes even more discomfort.
 
 4. Since the distance from the audience to the screen has not changed, with a larger screen, there may be even more inequality between the rows.
 
@@ -175,20 +175,20 @@ Referring again to FIG. 1, FIG. 3, and FIG. 5, the distance W is relatively the 
 In summary, the main features of various movie theater configurations are provided below:
 
 1. **traditional:**
-   - a’  from 0 to +1/5;
-   - s’ = 90, or  90;
+   - a’ approximately from 0 to +1/5;
+   - s’ equals 90 degrees or approximately 90 degrees;
    - D < 1m;
    - W – no change;
 
 2. **present day:**
-   - a’  from +1/5 to +1;
-   - s’ > 90, or  90-100;
+   - a’ approximately from +1/5 to +1;
+   - s’ > 90 degrees or approximately 90-100 degrees;
    - D < 1m;
    - W – no change;
 
 3. **ergonomic:**
-   - a’  from 0 to +1/2;
-   - s’ < 90, or  40-80;
+   - a’ approximately from 0 to +1/2;
+   - s’ < 90 degrees or approximately 40-80 degrees;
    - D > 1m;
    - W – no change.
 
