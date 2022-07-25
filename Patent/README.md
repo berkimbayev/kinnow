@@ -1,7 +1,6 @@
  ```This was a proposed patent behind Kinnow. ```
 
 #
-### 
 ### Invention Title:
 Ergonomic Movie Theater Configuration
 
@@ -10,7 +9,6 @@ Ergonomic Movie Theater Configuration
 
 
 #
-### 
 ### References Cited:
 
 **US Patent Documents:**
@@ -26,7 +24,7 @@ Ergonomic Movie Theater Configuration
 9. 1,397,064 Togersen. Theater.
 10. 1,348,069 Van Fleet. Moving Picture Theater.
 
-### 
+#
 **Other Publications:**
 
 1. Neufert, E., Kister, J., and Sturge, D. (2019). Architects’ data (5th ed.). Hoboken, NJ: Wiley-Blackwell.
@@ -48,7 +46,6 @@ Ergonomic Movie Theater Configuration
 
 
 #
-### 
 ### Field of the Invention:
 
 The present invention relates generally to theaters, and in particular, to movie theaters.
@@ -58,7 +55,6 @@ The present invention relates generally to theaters, and in particular, to movie
 
 
 #
-### 
 ### Background of the Invention:
 
 **Traditional Movie Theaters**
@@ -73,7 +69,7 @@ This traditional design became widely adopted, and because of that almost all mo
 
 3. **Inequality.** The front rows are too close to the screen, while the rear rows are too distant from the screen, and only a few rows are considered as the best among the theater patrons. 
 
-### 
+#
 **Present Day Movie Theaters**
 
 With the improvements in image projection technology, present day movie theater configuration adopts three common solutions to the deficiencies of traditional design – an increased slope of the audience area, a larger screen, and higher, reclining seat backs. However, although widely adopted, these solutions have their limitations:
@@ -110,7 +106,6 @@ This solution provides three positive outcomes:
 
 
 #
-### 
 ### Brief Description of the Drawings:
 
 It is to be appreciated that the foregoing paragraphs have been provided by way of general introduction, and are not intended to limit the spirit and scope of the present invention. The various exemplary embodiments (and/or elements of the exemplary embodiments) of the present invention, together with further advantages, will be best appreciated by reference to the following detailed description taken in conjunction with the accompanying drawings:
@@ -136,7 +131,6 @@ FIG. 8A and FIG. 8B are the elevation views, sectioned by a vertical plane, of v
 
 
 #
-### 
 ### Detailed Description of the Invention:
 
 Referring now to the drawings wherein like reference letters correspond to similar elements throughout the several views and more specifically, referring to FIG. 1, FIG. 3, and FIG. 5, the present invention will be described in the context of various exemplary movie theater configurations which include four interrelated parameters:
