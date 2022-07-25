@@ -54,6 +54,8 @@ Original triples                        Same triples but multiplied
 
 ###
 
+###
+
 
 ```
 Resulted triples used in the model
