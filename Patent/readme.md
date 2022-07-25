@@ -1,6 +1,7 @@
-This was a proposed patent behind Kinnow.
+ ```This was a proposed patent behind Kinnow. ```
 
 #
+### 
 ### Invention Title:
 Ergonomic Movie Theater Configuration
 
@@ -9,42 +10,45 @@ Ergonomic Movie Theater Configuration
 
 
 #
+### 
 ### References Cited:
 
 **US Patent Documents:**
 
-10,106,999 Sallent Puircergos. Arrangement of Cinemas in Multiplex Cinemas and Cinema Room for a Multi-Screen Cinema.
-9,797,150 Warren et al. Large Format Cinema Screen and Projection System.
-8,421,991 Read et al. Conversion of Cinema Theatre to a Super Cinema Theatre.
-6,164,018 Runge et al. Cinematic Theater and Theater Multiplex.
-5,822,928 Maxwell et al. Motion Picture Theatre Structure.
-5,469,669 Alter. Theater Design.
-2,380,837 Gray. Motion Picture Theater.
-2,280,206 Waller. Motion Picture Theater.
-1,397,064 Togersen. Theater.
-1,348,069 Van Fleet. Moving Picture Theater.
+1. 10,106,999 Sallent Puircergos. Arrangement of Cinemas in Multiplex Cinemas and Cinema Room for a Multi-Screen Cinema.
+2. 9,797,150 Warren et al. Large Format Cinema Screen and Projection System.
+3. 8,421,991 Read et al. Conversion of Cinema Theatre to a Super Cinema Theatre.
+4. 6,164,018 Runge et al. Cinematic Theater and Theater Multiplex.
+5. 5,822,928 Maxwell et al. Motion Picture Theatre Structure.
+6. 5,469,669 Alter. Theater Design.
+7. 2,380,837 Gray. Motion Picture Theater.
+8. 2,280,206 Waller. Motion Picture Theater.
+9. 1,397,064 Togersen. Theater.
+10. 1,348,069 Van Fleet. Moving Picture Theater.
 
+### 
 **Other Publications:**
 
-Neufert, E., Kister, J., and Sturge, D. (2019). Architects’ data (5th ed.). Hoboken, NJ: Wiley-Blackwell.
-Panero, J., and Zelnik, M. (1979). Human dimension and interior space: A source book of design reference standards. New York, NY: Whitney Library of Design.
-The American Institute of Architects (AIA). (2016). Architectural graphic standards (12th ed.). Hoboken, NJ: John Wiley & Sons.
+1. Neufert, E., Kister, J., and Sturge, D. (2019). Architects’ data (5th ed.). Hoboken, NJ: Wiley-Blackwell.
+2. Panero, J., and Zelnik, M. (1979). Human dimension and interior space: A source book of design reference standards. New York, NY: Whitney Library of Design.
+3. The American Institute of Architects (AIA). (2016). Architectural graphic standards (12th ed.). Hoboken, NJ: John Wiley & Sons.
 
-[1](https://displaysolutions.samsung.com/led-signage/onyx)
-[2](https://displaysolutions.samsung.com/led-signage/cinema-led)
-[3](https://news.samsung.com/global/samsung-redefines-the-movie-theater-experience-with-the-new-onyx-cinema-led-screen)
-[4](https://www.dcimovies.com/specification/DCI_DCSS_Ver1-3_2018-0627.pdf)
-[5](http://news.bbc.co.uk/2/hi/6187080.stm)
-[6](https://press.rsna.org/timssnet/media/pressreleases/pr_target.cfm?ID=294)
-[7](http://archive.rsna.org/2006/4435870.html)
-[8](https://www.researchgate.net/publication/266125001_The_Way_You_Sit_Will_Never_Be_the_Same_Alterations_of_Lumbosacral_Curvature_and_Intervertebral_Disc_Morphology_in_Normal_Subjects_in_Variable_Sitting_Positions_Using_Whole-body_Positional_MRI)
-[9](http://www.hazardcontrol.com/factsheets/humanfactors/visual-acuity-and-line-of-sight)
+4. [4](https://displaysolutions.samsung.com/led-signage/onyx)
+5. [5](https://displaysolutions.samsung.com/led-signage/cinema-led)
+6. [6](https://news.samsung.com/global/samsung-redefines-the-movie-theater-experience-with-the-new-onyx-cinema-led-screen)
+7. [7](https://www.dcimovies.com/specification/DCI_DCSS_Ver1-3_2018-0627.pdf)
+8. [8](http://news.bbc.co.uk/2/hi/6187080.stm)
+9. [9](https://press.rsna.org/timssnet/media/pressreleases/pr_target.cfm?ID=294)
+10. [10](http://archive.rsna.org/2006/4435870.html)
+11. [11](https://www.researchgate.net/publication/266125001_The_Way_You_Sit_Will_Never_Be_the_Same_Alterations_of_Lumbosacral_Curvature_and_Intervertebral_Disc_Morphology_in_Normal_Subjects_in_Variable_Sitting_Positions_Using_Whole-body_Positional_MRI)
+12. [12](http://www.hazardcontrol.com/factsheets/humanfactors/visual-acuity-and-line-of-sight)
 
 
 
 
 
 #
+### 
 ### Field of the Invention:
 
 The present invention relates generally to theaters, and in particular, to movie theaters.
@@ -54,6 +58,7 @@ The present invention relates generally to theaters, and in particular, to movie
 
 
 #
+### 
 ### Background of the Invention:
 
 **Traditional Movie Theaters**
@@ -68,6 +73,7 @@ This traditional design became widely adopted, and because of that almost all mo
 
 3. **Inequality.** The front rows are too close to the screen, while the rear rows are too distant from the screen, and only a few rows are considered as the best among the theater patrons. 
 
+### 
 **Present Day Movie Theaters**
 
 With the improvements in image projection technology, present day movie theater configuration adopts three common solutions to the deficiencies of traditional design – an increased slope of the audience area, a larger screen, and higher, reclining seat backs. However, although widely adopted, these solutions have their limitations:
@@ -104,6 +110,7 @@ This solution provides three positive outcomes:
 
 
 #
+### 
 ### Brief Description of the Drawings:
 
 It is to be appreciated that the foregoing paragraphs have been provided by way of general introduction, and are not intended to limit the spirit and scope of the present invention. The various exemplary embodiments (and/or elements of the exemplary embodiments) of the present invention, together with further advantages, will be best appreciated by reference to the following detailed description taken in conjunction with the accompanying drawings:
@@ -129,6 +136,7 @@ FIG. 8A and FIG. 8B are the elevation views, sectioned by a vertical plane, of v
 
 
 #
+### 
 ### Detailed Description of the Invention:
 
 Referring now to the drawings wherein like reference letters correspond to similar elements throughout the several views and more specifically, referring to FIG. 1, FIG. 3, and FIG. 5, the present invention will be described in the context of various exemplary movie theater configurations which include four interrelated parameters:
@@ -172,19 +180,19 @@ Referring again to FIG. 1, FIG. 3, and FIG. 5, the distance W is relatively the 
 
 In summary, the main features of various movie theater configurations are provided below:
 
-1. traditional:
+1. **traditional:**
    - a’  from 0 to +1/5;
    - s’ = 90, or  90;
    - D < 1m;
    - W – no change;
 
-2. present day:
+2. **present day:**
    - a’  from +1/5 to +1;
    - s’ > 90, or  90-100;
    - D < 1m;
    - W – no change;
 
-3. ergonomic:
+3. **ergonomic:**
    - a’  from 0 to +1/2;
    - s’ < 90, or  40-80;
    - D > 1m;
