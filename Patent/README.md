@@ -35,15 +35,15 @@ Ergonomic Movie Theater Configuration
 2. Panero, J., and Zelnik, M. (1979). Human dimension and interior space: A source book of design reference standards. New York, NY: Whitney Library of Design.
 3. The American Institute of Architects (AIA). (2016). Architectural graphic standards (12th ed.). Hoboken, NJ: John Wiley & Sons.
 
-4. [4](https://displaysolutions.samsung.com/led-signage/onyx)
-5. [5](https://displaysolutions.samsung.com/led-signage/cinema-led)
-6. [6](https://news.samsung.com/global/samsung-redefines-the-movie-theater-experience-with-the-new-onyx-cinema-led-screen)
-7. [7](https://www.dcimovies.com/specification/DCI_DCSS_Ver1-3_2018-0627.pdf)
-8. [8](http://news.bbc.co.uk/2/hi/6187080.stm)
-9. [9](https://press.rsna.org/timssnet/media/pressreleases/pr_target.cfm?ID=294)
-10. [10](http://archive.rsna.org/2006/4435870.html)
-11. [11](https://www.researchgate.net/publication/266125001_The_Way_You_Sit_Will_Never_Be_the_Same_Alterations_of_Lumbosacral_Curvature_and_Intervertebral_Disc_Morphology_in_Normal_Subjects_in_Variable_Sitting_Positions_Using_Whole-body_Positional_MRI)
-12. [12](http://www.hazardcontrol.com/factsheets/humanfactors/visual-acuity-and-line-of-sight)
+4. [displaysolutions.samsung.com](https://displaysolutions.samsung.com/led-signage/onyx)
+5. [displaysolutions.samsung.com](https://displaysolutions.samsung.com/led-signage/cinema-led)
+6. [news.samsung.com](https://news.samsung.com/global/samsung-redefines-the-movie-theater-experience-with-the-new-onyx-cinema-led-screen)
+7. [dcimovies.com](https://www.dcimovies.com/specification/DCI_DCSS_Ver1-3_2018-0627.pdf)
+8. [news.bbc.co.uk](http://news.bbc.co.uk/2/hi/6187080.stm)
+9. [press.rsna.org](https://press.rsna.org/timssnet/media/pressreleases/pr_target.cfm?ID=294)
+10. [archive.rsna.org](http://archive.rsna.org/2006/4435870.html)
+11. [researchgate.net](https://www.researchgate.net/publication/266125001_The_Way_You_Sit_Will_Never_Be_the_Same_Alterations_of_Lumbosacral_Curvature_and_Intervertebral_Disc_Morphology_in_Normal_Subjects_in_Variable_Sitting_Positions_Using_Whole-body_Positional_MRI)
+12. [hazardcontrol.com](http://www.hazardcontrol.com/factsheets/humanfactors/visual-acuity-and-line-of-sight)
 
 
 
