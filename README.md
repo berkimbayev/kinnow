@@ -98,6 +98,10 @@ The ergonomic theater design has three positive outcomes:⠀
 
    `You are sitting straight all day at work. Your kids are sitiing straight all day at school. But you don't need to sit straight in a movie theater. It's the place for you and your family to take a rest.`
 
+The main design problem was calculating an optimal angle of the screen tilt for a specific theater and specific number of viewers. Since Kinnow theaters will not be built from scratch but transformed from the existing, traditional theaters, you need to calculate the optimal angle and design the entire theater every time. This calculation and design was my main *know-how* at Kinnow, since I studied Architecture and Civil Engineering. *Spoiler:* to make the work easier, I used Pythagorean Triples.
+
+To learn more about Pythagorean Triples, check out this [Wikipedia article](https://en.wikipedia.org/wiki/Pythagorean_triple).
+
 
 
 ⠀
