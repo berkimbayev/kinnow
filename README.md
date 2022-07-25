@@ -10,7 +10,6 @@
 
 
 #
-###
 ### Background Story
 Kinnow was a startup I was working between March and August 2019 (before COVID-19). The goal was to change the way people watch movies. In particular, to develop a new approach to design and build movie theaters. There was no projection system. Only a bright and colorful LED-display - set at an optimal angle, slightly above the audience. This solution solves 3 major drawbacks of existing theaters: (a) distraction, (b) discomfort, and (c) inequality. Additionally, it was possible to develop a proprietary software to manage all screens and ticket sales from one computer. The business model was to license a theater design, a software, and a brand to movie distributors around the world (which is similar to IMAX and Dolby Cinema).
 
@@ -21,7 +20,6 @@ But this startup failed and now it's an open source project. Any contributions a
 
 
 #
-###
 ### Traditional Theater Design
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/06.png" alt="" width="32%"/>
@@ -44,14 +42,13 @@ The first movie theaters were converted from classic stage theaters more than 10
 
 2. **Discomfort.** During the movie, you might feel tiredness, as well as neck pain and lower back pain.
 
-3. **Inequality between the rows and seats.** The front rows are too close to the screen, while the back rows are too far, and only a few are the best.
+3. **Inequality.** The front rows are too close to the screen, while the back rows are too far, and only a few are the best.
 
 
 
 
 
 #
-###
 ### Traditional Solutions and their Limitations
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/09.png" alt="" width="32%"/>
@@ -62,7 +59,7 @@ The first movie theaters were converted from classic stage theaters more than 10
 ###
 With larger screens, increased audience slope, and higher seat backs, contemporary movie theaters are slightly better than the old ones. But all of these "tradiitonal" solutions have their limitations.
 
-1. With a bigger screen, there might be even more inequality between the first and the last rows. And since the screen is still in front of the audience, some viewers might distract others, even with higher seat backs. So there is still inequality and distraction.
+1. With a larger screen, there might be even more inequality between the first and the last rows. And since the screen is still in front of the audience, some viewers might distract others, even with higher seat backs. So there is still inequality and distraction.
 
 2. With an increased audience slope, some people's legs might be right behind the other people's heads. And since the screen is still in front of the audience, viewers should keep their heads upright. This posture induces neck pain, no matter how comfortable the seats are. So there is still discomfort.
 
@@ -71,7 +68,6 @@ With larger screens, increased audience slope, and higher seat backs, contempora
 
 
 #
-###
 ### Ergonomic Theater Design
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/12.png" alt="" width="32%"/>
@@ -98,20 +94,29 @@ The ergonomic theater design has three positive outcomes:⠀
 
 3. **More equality.** When the display is slightly raised and tilted, it becomes father from the first rows but closer to the last rows. This simple solution minimizes the difference between the rows. 
 
+
+
+
+
    `The research carried out using magnetic resonance imaging (MRI) at the Centre for Spinal Research in Aberdeen, revealed that the optimal sitting position was reclining back at 135 degrees. This position was shown to cause less strain on the lumbar spine, spinal disks, and associated muscles and tendons, compared with an upright sitting posture.`
 
    `You are sitting straight all day at work. Your kids are sitiing straight all day at school. But you don't need to sit straight in a movie theater. It's the place for you and your family to take a rest.`
 
+
+
+
+
 The main design problem was calculating an optimal angle of the screen tilt for a specific theater and specific number of viewers. Since Kinnow theaters will not be built from scratch but transformed from the existing, traditional theaters, you need to calculate the optimal angle and design the entire theater every time. This calculation and design was my main *know-how* at Kinnow, since I studied Architecture and Civil Engineering. *Spoiler:* to make the work easier, I used Pythagorean Triples.
 
 To learn more about Pythagorean Triples, check out this [Wikipedia article](https://en.wikipedia.org/wiki/Pythagorean_triple).
+
+A proposed patent behind ergonomic theater design is available in the `Patent` folder. A 3D-model of the theater is available in the `Models` folder. It was made in SketchUp. Pythagorean Triples used in this model are available in the respective file.
 
 
 
 ⠀
 
 #
-###
 ### LED Display
 The ergonomic theater design should be accompanied by the most advanced technology to date – a leading-edge LED display. This kind of displays are already made by Samsung.⠀It's called Onyx. Integrated with an exclusive JBL Sculpted Surround sound by Harman, Samsung Onyx technology brings an unparalleled movie theater experience:
 ⠀
@@ -127,7 +132,6 @@ To learn more about Samsung Onyx, check out this [Website](https://displaysoluti
 
 
 #
-###
 ### Software
 In traditional movie theaters, each projection system is managed on an individual machine, by an individual technician. Additionally, all ticket sales are managed on a separate computer, by a manager. In Kinnow, the goal was to develop a proprietary software to manage all screens and all sales from one computer, by one person. This theater management system (or TMS) should be connected to consumer apps (on iOS and Android) and touchscreens inside the theater. The theater guests can buy tickets using these apps and touchscreens. There should be no cashiers, no ushers, no queues, and no paper tickets. Only turnstiles similar to those in subways. To enter a theater, guests need to scan their digital tickets.
 
@@ -146,30 +150,30 @@ This fully digital experience contributes to the overall futuristic feel of the 
 
 
 #
-###
 ### Sci-Fi Seating
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-1.jpg" alt="Seating" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-2.jpg" alt="Seating" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-3.jpg" alt="Seating" width="32%"/>
 </p>
+
+###
+The proprietary seating design for this theater was insired by the works of Dieter Rams and classic sci-fi movies. The seating's design should be futuristic so that the whole theater feels like a spaceship. Before the movie starts, there should be a short video that contributes to these feelings. During this video, all seats should recline as if the spaceship prepares to leave this planet.
+###
+
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-4.jpg" alt="Seating" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-5.jpg" alt="Seating" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-6.jpg" alt="Seating" width="32%"/>
 </p>
 
-###
-The proprietary seating design for this theater was insired by the works of Dieter Rams and classic sci-fi movies. The seating's design should be futuristic so that the whole theater feels like a spaceship. Before the movie starts, there should be a short video that contributes to these feelings. During this video, all seats should recline as if the spaceship prepares to leave this planet.
-
-A 3D-model of the seating is available in the `3D Models` folder. It was made in SketchUp.
+A 3D-model of the seating is available in the `Models` folder. It was made in SketchUp.
 
 
 
 
 
 #
-###
 ### Overall Experience
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/20.png" alt="Experience" width="32%"/>
@@ -179,8 +183,6 @@ A 3D-model of the seating is available in the `3D Models` folder. It was made in
 
 ###
 In the current era of streaming services, there is more and more understanding that movie theaters are not about movies but the overall experience. In Kinnow theaters, there should be no crispy snacks and fizzy drinks with noisy packaging. Only healthy food solutions with eco-friendly packaging inspired by the aerospace industry.
-
-A 3D-model of the theater is available in the `3D Models` folder. It was made in SketchUp.
 
 
 
