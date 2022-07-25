@@ -114,7 +114,7 @@ The main design problem was calculating an optimal angle of the screen tilt for 
 
 To learn more about Pythagorean Triples, check out this [Wikipedia article](https://en.wikipedia.org/wiki/Pythagorean_triple).
 
-A proposed patent behind ergonomic theater design is available in the `Patent` folder. A 3D-model of the theater is available in the `Models` folder. It was made in SketchUp. Pythagorean Triples used in this model are available in the respective file.
+A proposed patent behind ergonomic theater design is available in the `Patent` folder. A 3D-model of the theater is available in the `Models` folder. It was made in SketchUp. Pythagorean Triples used in this model are available in the [respective file](https://github.com/berkimbayev/kinnow/blob/main/Models/pythagorean-triples.md).
 
 
 
