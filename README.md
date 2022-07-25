@@ -5,19 +5,29 @@
   <h3 align="center">The Cinema of the Future</h3>
 </p>
 
-#
-### Background Story
-Kinnow was a startup I was working on between March and August 2019 (before COVID-19). The goal was to develop a new approach to design and build movie theaters. There was no projection system. Only a bright and colorful LED-display - set at an optimal angle, slightly above the audience. This solution solves 3 major drawbacks of existing theaters: (a) distraction, (b) discomfort, (c) inequality between the rows and seats. Additionally, it was possible to develop a proprietary software to manage all screens and ticket sales from one computer. The business model was to license a theater design, a software, and a brand to movie distributors around the world (which is similar to IMAX and Dolby Cinema). But this startup failed and now it's an open source project.
+
+
+
 
 #
-### Traditional Design
+###
+### Background Story
+Kinnow was a startup I was working between March and August 2019 (before COVID-19). The goal was to change the way people watch movies. In particular, to develop a new approach to design and build movie theaters. There was no projection system. Only a bright and colorful LED-display - set at an optimal angle, slightly above the audience. This solution solves 3 major drawbacks of existing theaters: (a) distraction, (b) discomfort, (c) inequality between the rows and seats. Additionally, it was possible to develop a proprietary software to manage all screens and ticket sales from one computer. The business model was to license a theater design, a software, and a brand to movie distributors around the world (which is similar to IMAX and Dolby Cinema). But this startup failed and now it's an open source project.
+
+
+
+
+
+#
+###
+### Traditional Theater Design
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/06.png" alt="" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/05.png" alt="" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/04.png" alt="" width="32%"/>
 </p>
 
-(soon)
+The first movie theaters were converted from classic stage theaters more than 100 years ago. Since then, the theater design hasn't changed much. And just because of this design, almost all cinemas in the world have three serious drawbacks:
 
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/03a.png" alt="" width="32%"/>
@@ -25,29 +35,46 @@ Kinnow was a startup I was working on between March and August 2019 (before COVI
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/01a.png" alt="" width="32%"/>
 </p>
 
-(soon)
+– **Distraction.** All the people sitting in front of you might somehow distract you from watching.
+– **Discomfort.** During the movie, you might feel tiredness, as well as neck pain and lower back pain.⠀
+– **Inequality between the rows and seats.** The front rows are too close to the screen, while the back rows are too far, and only a few are the best.
+
+
+
 
 
 #
-### Traditional Solutions
+###
+### Traditional Solutions and their Limitations
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/09.png" alt="" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/08.png" alt="" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/07.png" alt="" width="32%"/>
 </p>
 
-(soon)
+With larger screens, increased audience slope, and higher seat backs, contemporary movie theaters are slightly better than the old ones. But all of these "tradiitonal" solutions have their limitations.
+
+1. With a bigger screen, there might be even more inequality between the first and the last rows. And since the screen is still in front of the audience, some viewers might distract others, even with higher seat backs. So there is still inequality and distraction.
+
+2. With an increased audience slope, some people's legs might be right behind the other people's heads. And since the screen is still in front of the audience, viewers should keep their heads upright. This posture induces neck pain, no matter how comfortable the seats are. So there is still discomfort.
+
+
+
 
 
 #
-### Kinnow Design
+###
+### Ergonomic Theater Design
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/12.png" alt="" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/11.png" alt="" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/10.png" alt="" width="32%"/>
 </p>
 
-(soon)
+At kinnow, 've developed an ergonomic theater design, with an LED display slightly raised and tilted above the audience. This solution minimizes the drawbacks described above and provides the best viewing expereince for everyone.
+
+The ergonomic theater design has three positive outcomes:⠀
+
 
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/15a.png" alt="" width="32%"/>
@@ -55,12 +82,44 @@ Kinnow was a startup I was working on between March and August 2019 (before COVI
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/13a.png" alt="" width="32%"/>
 </p>
 
-(soon)
+1. **No distraction.** The screen should be slightly raised above the audience and tilted at the optimal degree – so that you will not see the people in front of you. And nobody will distract you from watching.
+2. **No discomfort.** The movie theater is the place for you and your family to take a rest. In ergonomic theater design, you are leaning back in the most comfortable sitting position, proven by research.*
+3. **More equality.** When the display is slightly raised and tilted, it becomes father from the first rows but closer to the last rows. This simple solution minimizes the difference between the rows. 
+
+* The research carried out using magnetic resonance imaging (MRI) at the Centre for Spinal Research in Aberdeen, revealed that the optimal sitting position was reclining back at 135 degrees. This position was shown to cause less strain on the lumbar spine, spinal disks, and associated muscles and tendons, compared with an upright sitting posture.
+
+You are sitting straight all day at work. Your kids are sitiing straight all day at school. But you don't need to sit straight in a movie theater. It's the place for you and your family to rest. With ergonomic theater design, you and your kids are leaning back in the most comfortable position, while enjoying the latest movies on a bright, high-quality LED display.
+
+
+
+⠀
+
+#
+###
+### LED Display
+The ergonomic theater design should be accompanied by the most advanced technology to date – a leading-edge LED display. This kind of displays are already made by Samsung.⠀It's called Onyx. Integrated with an exclusive JBL Sculpted Surround sound by Harman, Samsung Onyx technology brings an unparalleled movie theater experience:
+⠀
+1. Captivating 4K image quality.
+2. Incredible brightness, unaffected by ambient light.
+3. Brilliant HDR picture refinement and detailed  3D content.
+4. Accurate color representation, pure whites, and deep blacks.
+
+To learn more about Samsung Onyx, check these links:
+1. [Website](https://displaysolutions.samsung.com/led-signage/onyx/)
+2. [YouTube Video](https://youtu.be/ZcaCANnihMw/)
+
+
+
 
 
 #
+###
 ### Software
 In traditional movie theaters, each projection system is managed on an individual machine, by an individual technician. Additionally, all ticket sales are managed on a separate computer, by a manager. In Kinnow, the goal was to develop a proprietary software to manage all screens and all sales from one computer, by one person. This theater management system (or TMS) should be connected to consumer apps (on iOS and Android) and touchscreens inside the theater. The theater guests can buy tickets using these apps and touchscreens. There should be no cashiers, no ushers, no queues, and no paper tickets. Only turnstiles similar to those in subways. To enter a theater, guests need to scan their digital tickets.
+
+Other features:
+1. For the theater managers – simple drag-n-drop movie scheduling, flexible ticket pricing, and advanced analytics.
+2. For the theater guests – an app/website with clean and intuitive interface similar to Google Calendar.
 
 This fully digital experience contributes to the overall futuristic feel of the theater.
 
@@ -68,7 +127,12 @@ This fully digital experience contributes to the overall futuristic feel of the 
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/software.png" alt="Software"/>
 </p>
 
+
+
+
+
 #
+###
 ### Sci-Fi Seating
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-01.jpg" alt="Seating" width="32%"/>
@@ -78,7 +142,12 @@ This fully digital experience contributes to the overall futuristic feel of the 
 
 The proprietary seating design for this theater was insired by the works of Dieter Rams and classic sci-fi movies. The seating's design should be futuristic so that the whole theater feels like a spaceship. Before the movie starts, there should be a short video that contributes to these feelings. During this video, all seats should recline as if the spaceship prepares to leave this planet.
 
+
+
+
+
 #
+###
 ### Overall Experience
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/20.png" alt="Experience" width="32%"/>
@@ -86,9 +155,10 @@ The proprietary seating design for this theater was insired by the works of Diet
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/16.png" alt="Experience" width="32%"/>
 </p>
 
-In the current era of streaming services, there is more and more understanding that movie theaters are not about movies but the overall experience. 
+In the current era of streaming services, there is more and more understanding that movie theaters are not about movies but the overall experience. In Kinnow theaters, there should be no crispy snacks and fizzy drinks with noisy packaging. Only healthy food solutions with eco-friendly packaging inspired by the aerospace industry.
 
-(soon)
+
+
 
 
 #
@@ -103,9 +173,7 @@ In the current era of streaming services, there is more and more understanding t
 #
 **License.** This project is distributed under a [Creative Commons](https://creativecommons.org/share-your-work/public-domain/) license.
 
-<p>
-  <img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" alt="License" width="100px">
-</p>
+<p><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" alt="License" width="100px"></p>
 
 #
 <p align="center">
