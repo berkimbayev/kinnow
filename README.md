@@ -149,9 +149,14 @@ This fully digital experience contributes to the overall futuristic feel of the 
 ###
 ### Sci-Fi Seating
 <p>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-01.jpg" alt="Seating" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-02.jpg" alt="Seating" width="32%"/>
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-03.jpg" alt="Seating" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-1.jpg" alt="Seating" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-2.jpg" alt="Seating" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-3.jpg" alt="Seating" width="32%"/>
+</p>
+<p>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-4.jpg" alt="Seating" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-5.jpg" alt="Seating" width="32%"/>
+  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-6.jpg" alt="Seating" width="32%"/>
 </p>
 
 ###
