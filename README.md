@@ -175,7 +175,7 @@ A 3D-model of the theater is available in the `3D Models` folder. It was made in
 
 #
 ### Video Mockup
-The short video mockup of the theater is available [here](https://youtu.be/LT72UCeYAf8).
+A short video mockup of the theater is available [here](https://youtu.be/LT72UCeYAf8).
 
 #
 ### Author
@@ -186,8 +186,7 @@ This project was created by [Nurzhan Berkimbayev](https://github.com/berkimbayev
 Any contributions to this project are highly appreciated! (all contributors wll appear in this section)
 
 #
-### License
-This project is distributed under a [Creative Commons](https://creativecommons.org/share-your-work/public-domain/) license.
+**License.** This project is distributed under a [Creative Commons](https://creativecommons.org/share-your-work/public-domain/) license.
 <p><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" alt="License" width="100px"></p>
 
 #
