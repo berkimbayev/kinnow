@@ -1,4 +1,8 @@
- ```This was a proposed patent behind Kinnow. ```
+ ```This was a proposed patent behind Kinnow```
+
+
+
+
 
 #
 ### Invention Title:
@@ -47,7 +51,6 @@ Ergonomic Movie Theater Configuration
 
 #
 ### Field of the Invention:
-
 The present invention relates generally to theaters, and in particular, to movie theaters.
 
 
@@ -88,7 +91,6 @@ With the improvements in image projection technology, present day movie theater 
 
 #
 ### Summary of the Invention:
-
 A purpose of the present invention is to provide a novel, ergonomic movie theater configuration which eliminates or minimizes the major deficiencies of prior art movie theaters.
 
 This configuration adopts one simple solution – a change in the angle and position of the screen, not the slope of the audience area. In other words, in ergonomic movie theater configuration, the screen is inclined towards the audience area and positioned higher relative to prior art movie theaters, preferably above the audience area.
@@ -107,7 +109,6 @@ This solution provides three positive outcomes:
 
 #
 ### Brief Description of the Drawings:
-
 It is to be appreciated that the foregoing paragraphs have been provided by way of general introduction, and are not intended to limit the spirit and scope of the present invention. The various exemplary embodiments (and/or elements of the exemplary embodiments) of the present invention, together with further advantages, will be best appreciated by reference to the following detailed description taken in conjunction with the accompanying drawings:
 
 FIG. 1 is an elevation view, sectioned by a vertical plane, of an exemplary embodiment of traditional movie theater configuration. This figure is labeled PRIOR ART.
@@ -132,7 +133,6 @@ FIG. 8A and FIG. 8B are the elevation views, sectioned by a vertical plane, of v
 
 #
 ### Detailed Description of the Invention:
-
 Referring now to the drawings wherein like reference letters correspond to similar elements throughout the several views and more specifically, referring to FIG. 1, FIG. 3, and FIG. 5, the present invention will be described in the context of various exemplary movie theater configurations which include four interrelated parameters:
 
 1. a slope a’ of an audience area A,
