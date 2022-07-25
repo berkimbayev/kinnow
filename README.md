@@ -11,6 +11,7 @@
 
 #
 ### Background Story
+
 Kinnow was a startup I was working between March and August 2019 (before COVID-19). The goal was to change the way people watch movies. In particular, to develop a new approach to design and build movie theaters. There was no projection system. Only a bright and colorful LED-display - set at an optimal angle, slightly above the audience. This solution solves 3 major drawbacks of existing theaters: (a) distraction, (b) discomfort, and (c) inequality. Additionally, it was possible to develop a proprietary software to manage all screens and ticket sales from one computer. The business model was to license a theater design, a software, and a brand to movie distributors around the world (which is similar to IMAX and Dolby Cinema).
 
 But this startup failed and now it's an open source project. Any contributions are highly appreciated!
@@ -21,6 +22,7 @@ But this startup failed and now it's an open source project. Any contributions a
 
 #
 ### Traditional Theater Design
+
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/06.png" alt="" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/05.png" alt="" width="32%"/>
@@ -50,6 +52,7 @@ The first movie theaters were converted from classic stage theaters more than 10
 
 #
 ### Traditional Solutions and their Limitations
+
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/09.png" alt="" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/08.png" alt="" width="32%"/>
@@ -69,6 +72,7 @@ With larger screens, increased audience slope, and higher seat backs, contempora
 
 #
 ### Ergonomic Theater Design
+
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/12.png" alt="" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/11.png" alt="" width="32%"/>
@@ -118,6 +122,7 @@ A proposed patent behind ergonomic theater design is available in the `Patent` f
 
 #
 ### LED Display
+
 The ergonomic theater design should be accompanied by the most advanced technology to date – a leading-edge LED display. This kind of displays are already made by Samsung.⠀It's called Onyx. Integrated with an exclusive JBL Sculpted Surround sound by Harman, Samsung Onyx technology brings an unparalleled movie theater experience:
 ⠀
 1. Captivating 4K image quality.
@@ -133,17 +138,18 @@ To learn more about Samsung Onyx, check out this [Website](https://displaysoluti
 
 #
 ### Software
+
 In traditional movie theaters, each projection system is managed on an individual machine, by an individual technician. Additionally, all ticket sales are managed on a separate computer, by a manager. In Kinnow, the goal was to develop a proprietary software to manage all screens and all sales from one computer, by one person. This theater management system (or TMS) should be connected to consumer apps (on iOS and Android) and touchscreens inside the theater. The theater guests can buy tickets using these apps and touchscreens. There should be no cashiers, no ushers, no queues, and no paper tickets. Only turnstiles similar to those in subways. To enter a theater, guests need to scan their digital tickets.
 
 Other features:
+
 1. For the theater managers – simple drag-n-drop movie scheduling, flexible ticket pricing, and advanced analytics.
+
 2. For the theater guests – an app/website with clean and intuitive interface similar to Google Calendar.
 
 This fully digital experience contributes to the overall futuristic feel of the theater.
 
-<p align="center">
-  <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/software.png" alt="Software"/>
-</p>
+<p><img src="https://github.com/berkimbayev/kinnow/blob/main/assets/software.png" alt="Software"/></p>
 
 
 
@@ -151,6 +157,7 @@ This fully digital experience contributes to the overall futuristic feel of the 
 
 #
 ### Sci-Fi Seating
+
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-1.jpg" alt="Seating" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-2.jpg" alt="Seating" width="32%"/>
@@ -167,7 +174,8 @@ The proprietary seating design for this theater was insired by the works of Diet
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/seating-6.jpg" alt="Seating" width="32%"/>
 </p>
 
-A 3D-model of the seating is available in the `Models` folder. It was made in SketchUp.
+###
+A 3D-model of the seating system is available in the `Models` folder. It was made in SketchUp.
 
 
 
@@ -175,6 +183,7 @@ A 3D-model of the seating is available in the `Models` folder. It was made in Sk
 
 #
 ### Overall Experience
+
 <p>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/20.png" alt="Experience" width="32%"/>
   <img src="https://github.com/berkimbayev/kinnow/blob/main/assets/18.png" alt="Experience" width="32%"/>
@@ -198,7 +207,7 @@ This project was created by [Nurzhan Berkimbayev](https://github.com/berkimbayev
 
 #
 ### Contributors
-Any contributions to this project are highly appreciated! (all contributors wll appear in this section)
+Any contributions to this project are highly appreciated! (all contributors will appear in this section)
 
 #
 **License.** This project is distributed under a [Creative Commons](https://creativecommons.org/share-your-work/public-domain/) license.
