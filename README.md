@@ -200,7 +200,8 @@ A short video mockup of the theater is available [here](https://youtu.be/LT72UCe
 
 #
 ### Author
-This project was created by [Nurzhan Berkimbayev](https://github.com/berkimbayev/). For any inquiries, feel free to message in [LinkedIn](https://www.linkedin.com/in/berkimbayev/) / [Telegram](https://t.me/nurzhanberkimbayev/) or send an email.
+This project was created by [Nurzhan Berkimbayev](https://github.com/berkimbayev/).
+For any inquiries, feel free to message in [LinkedIn](https://www.linkedin.com/in/berkimbayev/) / [Telegram](https://t.me/nurzhanberkimbayev/) or send an email.
 
 #
 ### Contributors
