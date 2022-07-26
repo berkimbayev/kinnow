@@ -136,13 +136,11 @@ To learn more about Samsung Onyx, just check out this [Website](https://displays
 #
 ### Software
 
-In traditional movie theaters, each projection system is managed on an individual machine, by an individual technician. Additionally, all ticket sales are managed on a separate computer, by a manager. In Kinnow, the goal was to develop a proprietary software to manage all screens and all sales from one computer, by one person. This theater management system (or TMS) should be connected to consumer apps (on iOS and Android) and touchscreens inside the theater. The theater guests can buy tickets using these apps and touchscreens. There should be no cashiers, no ushers, no queues, and no paper tickets. Only turnstiles similar to those in subways. To enter a theater, guests need to scan their digital tickets.
+In traditional movie theaters, each projection system is managed by an individual technician, using special software on a separate machine. Additionally, all screenings and sales (tickets and food) are managed by the theater manager, using another special software on another separate machine.
 
-Other features:
+In Kinnow, the goal was to develop a proprietary software to manage all screens and all sales from one computer, by one person. This theater management system (or TMS) should have a very clean and intuitive user interface similar to Google Calendar (with drag-n-drop movie scheduling, flexible ticket pricing, and advanced analytics). It should be seamlessly integrated with consumer apps (for iOS and Android) and a website.
 
-1. For the theater managers – simple drag-n-drop movie scheduling, flexible ticket pricing, and advanced analytics.
-
-2. For the theater guests – an app/website with clean and intuitive interface similar to Google Calendar.
+The theater guests can buy tickets using these apps or touch panels inside the theater. There should be no cashiers, no ushers, no queues, and no paper tickets at all. Only digital tickets (e.g. QR-codes) and turnstiles similar to those in subways. To enter the screening, a guest just need to scan their digital ticket on the turnstile.
 
 This fully digital experience contributes to the overall futuristic feel of the theater.
 
