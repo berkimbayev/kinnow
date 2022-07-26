@@ -120,12 +120,12 @@ To learn more about Pythagorean Triples, just check out this [Wikipedia article]
 #
 ### LED Display
 
-The ergonomic theater design should be accompanied by the most advanced technology to date – a leading-edge LED display. This kind of displays are already made by Samsung.⠀It's called Onyx. Integrated with an exclusive JBL Sculpted Surround sound by Harman, Samsung Onyx technology brings an unparalleled movie theater experience:
+The ergonomic theater design should be accompanied by the most advanced technology to date – a leading-edge LED display. `(No more projection systems.)` This kind of display is already made by Samsung. It's called Onyx. Integrated with an exclusive JBL Sculpted Surround sound by Harman, Samsung Onyx technology brings an unparalleled movie theater experience:
 ⠀
 1. Captivating 4K image quality.
 2. Incredible brightness, unaffected by ambient light.
-3. Brilliant HDR picture refinement and detailed  3D content.
-4. Accurate color representation, pure whites, and deep blacks.
+3. Brilliant HDR picture refinement and detailed 3D.
+4. Accurate color representation, pure whites and deep blacks.
 
 To learn more about Samsung Onyx, just check out this [Website](https://displaysolutions.samsung.com/led-signage/onyx/) or a [YouTube Video](https://youtu.be/ZcaCANnihMw/).
 
