@@ -92,11 +92,11 @@ In Kinnow's ergonomic theater design, a large LED display is slightly raised and
 ###
 The ergonomic theater design has three positive outcomes:⠀
 
-1. **No distraction.** The screen should be slightly raised above the audience and tilted at the optimal degree – so that you will not see the people in front of you. And nobody will distract you from watching.
+1. **No distraction.** Since the screen is raised and tilted at the optimal degree, you just don't see any people in front of you. And nobody distracts you from watching the movie.
 
-2. **No discomfort.** The movie theater is the place for you and your family to take a rest. In ergonomic theater design, you are leaning back in the most comfortable sitting position, proven by research,* while enjoying the latest movies on a high-end LED display.
+2. **No discomfort.** Again, since the screen is slightly raised and tilted, you are leaning back in the most comfortable sitting position, proven by research.*
 
-3. **More equality.** When the display is slightly raised and tilted, it becomes father from the first rows but closer to the last rows. This simple solution minimizes the difference between the rows. 
+3. **More equality.** And again, since the screen is slightly raised and tilted, it is more distant from the first rows but closer to the last rows. This simple solution minimizes the difference between the rows.
 
 
 
