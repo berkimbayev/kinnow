@@ -40,11 +40,11 @@ The first movie theaters were converted from classic stage theaters more than 10
 </p>
 
 ###
-1. **Distraction.** All the people sitting in front of you might somehow distract you from watching.
+1. **Distraction.** Since the screen is placed in front of the audience, you can see all the people sitting in front of you. And they all might somehow distract you from watching.
 
-2. **Discomfort.** During the movie, you might feel tiredness, as well as neck pain and lower back pain.
+2. **Discomfort.** Again, since the screen is in front of you, you need to keep your head upright. That's why during the movie, you might feel neck pain, as well as lower back pain. And after the long movie, you might feel very tired.
 
-3. **Inequality.** The front rows are too close to the screen, while the back rows are too far, and only a few are the best.
+3. **Inequality between the rows.** The front rows are too close to the screen, while the back rows are too far, and only a few are the best.
 
 
 
@@ -104,7 +104,7 @@ The ergonomic theater design has three positive outcomes:⠀
 
    `The research carried out using magnetic resonance imaging (MRI) at the Centre for Spinal Research in Aberdeen, revealed that the optimal sitting position was reclining back at 135 degrees. This position was shown to cause less strain on the lumbar spine, spinal disks, and associated muscles and tendons, compared with an upright sitting posture.`
 
-   `You are sitting straight all day at work. Your kids are sitiing straight all day at school. But you don't need to sit straight in a movie theater. It's the place for you and your family to take a rest.`
+   `You are sitting straight all day at work. Your kids are sitting straight all day at school. But you don't need to sit straight in a movie theater. It's the place for you and your family to take a rest.`
 
 
 
