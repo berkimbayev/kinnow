@@ -190,7 +190,7 @@ In the current era of streaming services, there is more and more understanding t
 
 The theater employees should look like a spaceship crew members. The crew's outfit should be made from flame-resistant nomex, similar to that of Formula One and SpaceX pilots. And yes, they should have helmets. Since there are two shifts, there should be two different teams - good and bad, white and black, protagonists and antagonists. Between those two shifts, there should be a showtime performance - showing a short battle between the teams. At the end of this performance, the new team takes control over the spaceship. And that's why helmets are important - the theater guests will not see the actual faces of the employees.
 
-Some movies are bad. And some movies are very good. Not only because of the excellent acting, directing, and camerawork. But thanks to the joint work of talented designers who add all hose small details, literally immersing the audience into the atmosphere of what is happening on the screen. It's pure magic. Kinnow was a startup with the same goal. And it's failed. We have amazing, spectacular, breathtaking movies but we still have awful movie theaters all around the world. We can change that.
+Some movies are bad. And some movies are very good. Not only because of the excellent acting, directing, and camerawork. But thanks to the joint work of talented designers who add all those small details - literally immersing the audience into the atmosphere of what is happening on the screen. It's pure magic. Kinnow was a startup with the same goal. And it's failed. We have some amazing, spectacular, breathtaking movies but we still have awful movie theaters all around the world. And you know what? We can change that.
 
 
 ⠀
