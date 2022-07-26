@@ -138,7 +138,7 @@ To learn more about Samsung Onyx, just check out this [Website](https://displays
 
 In traditional movie theaters, each projection system is managed by an individual technician, using special software on a separate machine. Additionally, all screenings and sales (tickets and food) are managed by the theater manager, using another special software on another separate machine.
 
-In Kinnow, the goal was to develop a proprietary software to manage all screens and all sales from one computer, by one person. This theater management system (or TMS) should have a very clean and intuitive user interface similar to Google Calendar (with drag-n-drop movie scheduling, flexible ticket pricing, and advanced analytics). It should be seamlessly integrated with consumer apps for iOS and Android and a website. (The apps/website should also have an intuitive Calendar-like UI.)
+In Kinnow, the goal was to develop a proprietary software to manage all screens and all sales from one computer, by one person. This theater management system (or TMS) should have a very clean and intuitive user interface similar to Google Calendar (with drag-n-drop movie scheduling, flexible ticket pricing, and advanced analytics). It should be seamlessly integrated with consumer apps for iOS and Android and a website. `(The apps/website should also have an intuitive Calendar-like UI.)`
 
 The theater guests can buy tickets using these apps or touch panels inside the theater. There should be no cashiers, no ushers, no queues, and no paper tickets at all. Only digital tickets (e.g. QR-codes) and turnstiles similar to those in subways. To enter the screening, a guest just need to scan their digital ticket on the turnstile.
 
