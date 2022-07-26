@@ -80,7 +80,7 @@ Modern movie theaters have larger screens, increased audience slope, and higher 
 </p>
 
 ###
-At kinnow, 've developed an ergonomic theater design, with an LED display slightly raised and tilted above the audience. This solution minimizes the drawbacks described above and provides the best viewing expereince for everyone.
+In Kinnow's ergonomic theater design, a large LED display is slightly raised and tilted above the audience. This simple and obvious solution minimizes all of the drawbacks described above and provides the best viewing experience for everyone.
 ###
 
 <p>
