@@ -191,13 +191,9 @@ A 3D-model of the seating system is available in the `Models` folder. It was mad
 </p>
 
 ###
-In the current era of streaming services, there is more and more understanding that movie theaters are not about movies but the overall experience. In Kinnow theaters, there should be no crispy snacks and fizzy drinks with noisy packaging. Only healthy food and drinks with eco-friendly packaging inspired by the aerospace industry. The foyer interior should be white and clean just like a spaceship, with an overall retro sci-fi feel.
+In the current era of streaming services, there is more and more understanding that movie theaters are not about movies but the overall experience. In Kinnow theaters, there should be no crispy snacks and fizzy drinks with noisy packaging. Only healthy food and drinks with eco-friendly packaging inspired by the aerospace industry. The foyer interior should be white and clean just like a spaceship, with an overall retro sci-fi feel. `(My personal preference is an interior in Oblivion.)`
 
-`My personal preference is an interior in Oblivion movie.`
-
-The theater employees should look like a spaceship crew members. The crew's outfit should be made from flame-resistant nomex, similar to that of Formula One and SpaceX pilots. And, yes, they should have helmets.
-
-Since there are two shifts, there should be two different teams - good and bad, white and black, protagonists and antagonists. Between those two shifts, there should be a showtime perpormance, showing a short battle between the teams. At the end of the performance, the new team takes control over the spaceship. And that's why helmets are important - the theater guests will not see the faces of the employees.
+The theater employees should look like a spaceship crew members. The crew's outfit should be made from flame-resistant nomex, similar to that of Formula One and SpaceX pilots. And yes, they should have helmets. Since there are two shifts, there should be two different teams - good and bad, white and black, protagonists and antagonists. Between those two shifts, there should be a showtime performance - showing a short battle between the teams. At the end of this performance, the new team takes control over the spaceship. And that's why helmets are important - the theater guests will not see the actual faces of the employees.
 
 
 
