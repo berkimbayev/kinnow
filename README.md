@@ -160,7 +160,7 @@ This fully digital experience contributes to the overall futuristic feel of the 
 </p>
 
 ###
-The proprietary seating design for this theater was insired by the works of Dieter Rams (Vitsoe 620 Seating System) and the classic sci-fi movies (2001: A Space Odyssey or The Empire Strikes Back). The seating's backs are high enough, so that you will not see people on the front row. The seating's armrest looks like an industrial robotic arm. The overall seating's design looks futuristic, while the whole theater should look like a spaceship. Before the movie starts, there should be a short video, showing that the spaceship is ready to take off. During this video, all seats should recline back as the spaceship prepares to leave this planet.
+A proprietary seating system for this theater was insired by the works of Dieter Rams (Vitsoe 620) and the classic sci-fi movies (2001: A Space Odyssey or The Empire Strikes Back). The seat backs are high enough and cover the entire row - so that you don't see the people sitting in front of you. The seating's armrest looks like an industrial robotic arm. The overall seating's design looks futuristic, while the whole theater should look like a spaceship. Before the movie starts, there should be a short video, showing that the spaceship is ready to take off. During this video, all seats should recline back as the spaceship prepares to leave this planet.
 ###
 
 <p>
@@ -170,7 +170,7 @@ The proprietary seating design for this theater was insired by the works of Diet
 </p>
 
 ###
-A 3D-model of the seating system is available in the `Models` folder. It was made in SketchUp.
+A simple 3D-model of the seating system is available in the `Models` folder. It was made in SketchUp.
 
 
 ⠀
