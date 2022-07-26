@@ -17,7 +17,7 @@ Kinnow was a startup I was working between March and August 2019 (before COVID-1
 But this startup failed and now it's an open source project. Any contributions to this project are highly appreciated!
 
 
-
+⠀
 
 
 #
@@ -47,7 +47,7 @@ The first movie theaters were converted from classic stage theaters more than 10
 3. **Inequality between the rows.** The front rows are too close to the screen, while the back rows are too far, and only a few are the best.
 
 
-
+⠀
 
 
 #
@@ -67,7 +67,7 @@ Modern movie theaters have larger screens, increased audience slope, and higher 
 2. With an increased audience slope, some people's legs might be right behind the other people's heads. And since the screen is still in front of the audience, the viewers should keep their heads upright. This posture induces neck pain, no matter how comfortable the seats are. So there is still discomfort.
 
 
-
+⠀
 
 
 #
@@ -103,9 +103,10 @@ The ergonomic theater design has three positive outcomes:⠀
 3. **More equality.** And again, since the screen is slightly raised and tilted, it is more distant from the first rows but closer to the last rows. This simple solution minimizes the difference between the rows.
 
 
+⠀
 
 
-
+#
 The main design problem at Kinnow was calculating an optimal angle of the screen tilt for a specific theater and specific number of viewers. Since many proposed Kinnow theaters will not be built from scratch but transformed from the existing theaters, you need to calculate the optimal angle and design the entire new theater every time. This calculation and design was my main *know-how*, since I studied Architecture and Civil Engineering. *Spoiler:* to make the work easier, I used Pythagorean Triples.
 
 To learn more about Pythagorean Triples, just check out this [Wikipedia article](https://en.wikipedia.org/wiki/Pythagorean_triple).
@@ -113,8 +114,8 @@ To learn more about Pythagorean Triples, just check out this [Wikipedia article]
 A proposed patent behind Kinnow and its ergonomic theater design is available in the `Patent` folder. A simple 3D-model of the theater is available in the `Models` folder. It was made in SketchUp. Pythagorean Triples used in this model are available in this [file](https://github.com/berkimbayev/kinnow/blob/main/Models/pythagorean-triples.md).
 
 
-
 ⠀
+
 
 #
 ### LED Display
@@ -129,7 +130,7 @@ The ergonomic theater design should be accompanied by the most advanced technolo
 To learn more about Samsung Onyx, check out this [Website](https://displaysolutions.samsung.com/led-signage/onyx/) or a [YouTube Video](https://youtu.be/ZcaCANnihMw/).
 
 
-
+⠀
 
 
 #
@@ -148,7 +149,7 @@ This fully digital experience contributes to the overall futuristic feel of the 
 <p><img src="https://github.com/berkimbayev/kinnow/blob/main/assets/software.png" alt="Software"/></p>
 
 
-
+⠀
 
 
 #
@@ -174,7 +175,7 @@ The proprietary seating design for this theater was insired by the works of Diet
 A 3D-model of the seating system is available in the `Models` folder. It was made in SketchUp.
 
 
-
+⠀
 
 
 #
@@ -192,7 +193,7 @@ In the current era of streaming services, there is more and more understanding t
 The theater employees should look like a spaceship crew members. The crew's outfit should be made from flame-resistant nomex, similar to that of Formula One and SpaceX pilots. And yes, they should have helmets. Since there are two shifts, there should be two different teams - good and bad, white and black, protagonists and antagonists. Between those two shifts, there should be a showtime performance - showing a short battle between the teams. At the end of this performance, the new team takes control over the spaceship. And that's why helmets are important - the theater guests will not see the actual faces of the employees.
 
 
-
+⠀
 
 
 #
