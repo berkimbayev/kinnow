@@ -107,7 +107,7 @@ The ergonomic theater design has three positive outcomes:⠀
 
 
 #
-The main design problem at Kinnow was calculating an optimal angle of the screen tilt for a specific theater and specific number of viewers. Since many proposed Kinnow theaters will not be built from scratch but transformed from the existing theaters, you need to calculate the optimal angle and design the entire new theater every time. This calculation and design was my main *know-how*, since I studied Architecture and Civil Engineering. *Spoiler:* to make the work easier, I used Pythagorean Triples.
+The main design problem at Kinnow was calculating an optimal angle of the screen tilt for a specific theater and specific number of viewers. Since many proposed Kinnow theaters will not be built from scratch but transformed from the existing theaters, you need to calculate the optimal angle and design the entire new theater every time. This calculation and design was my main *know-how*, since I studied Architecture and Civil Engineering. __*Spoiler:*__ to make the work easier, I used Pythagorean Triples.
 
 A proposed patent behind Kinnow and its ergonomic theater design is available in the `Patent` folder. A simple 3D-model of the theater is available in the `Models` folder. It was made in SketchUp. Pythagorean Triples used in this model are available in this [file](https://github.com/berkimbayev/kinnow/blob/main/Models/pythagorean-triples.md).
 
