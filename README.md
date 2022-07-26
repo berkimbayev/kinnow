@@ -165,7 +165,7 @@ This fully digital experience contributes to the overall futuristic feel of the 
 </p>
 
 ###
-The proprietary seating design for this theater was insired by the works of Dieter Rams and classic sci-fi movies. The seating's design should be futuristic so that the whole theater feels like a spaceship. Before the movie starts, there should be a short video that contributes to these feelings. During this video, all seats should recline as if the spaceship prepares to leave this planet.
+The proprietary seating design for this theater was insired by the works of Dieter Rams (Vitsoe 620 Seating System) and the classic sci-fi movies (2001: A Space Odyssey or The Empire Strikes Back). The seating's backs are high enough, so that you will not see people on the front row. The seating's armrest looks like an industrial robotic arm. The overall seating's design looks futuristic, while the whole theater should look like a spaceship. Before the movie starts, there should be a short video, showing that the spaceship is ready to take off. During this video, all seats should recline back as the spaceship prepares to leave this planet.
 ###
 
 <p>
@@ -191,7 +191,13 @@ A 3D-model of the seating system is available in the `Models` folder. It was mad
 </p>
 
 ###
-In the current era of streaming services, there is more and more understanding that movie theaters are not about movies but the overall experience. In Kinnow theaters, there should be no crispy snacks and fizzy drinks with noisy packaging. Only healthy food solutions with eco-friendly packaging inspired by the aerospace industry.
+In the current era of streaming services, there is more and more understanding that movie theaters are not about movies but the overall experience. In Kinnow theaters, there should be no crispy snacks and fizzy drinks with noisy packaging. Only healthy food and drinks with eco-friendly packaging inspired by the aerospace industry. The foyer interior should be white and clean just like a spaceship, with an overall retro sci-fi feel.
+
+`My personal preference is an interior in Oblivion movie.`
+
+The theater employees should look like a spaceship crew members. The crew's outfit should be made from flame-resistant nomex, similar to that of Formula One and SpaceX pilots. And, yes, they should have helmets.
+
+Since there are two shifts, there should be two different teams - good and bad, white and black, protagonists and antagonists. Between those two shifts, there should be a showtime perpormance, showing a short battle between the teams. At the end of the performance, the new team takes control over the spaceship. And that's why helmets are important - the theater guests will not see the faces of the employees.
 
 
 
