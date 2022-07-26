@@ -60,11 +60,11 @@ The first movie theaters were converted from classic stage theaters more than 10
 </p>
 
 ###
-With larger screens, increased audience slope, and higher seat backs, contemporary movie theaters are slightly better than the old ones. But all of these "tradiitonal" solutions have their limitations.
+Modern movie theaters have larger screens, increased audience slope, and higher seat backs,. They are slightly better than the old ones. But all of these "tradiitonal" solutions have their own limitations:
 
-1. With a larger screen, there might be even more inequality between the first and the last rows. And since the screen is still in front of the audience, some viewers might distract others, even with higher seat backs. So there is still inequality and distraction.
+1. With a larger screen, there might be even more inequality between the first and the last rows. And since the screen is still in front of the audience, some viewers might distract others, even with the higher seat backs. So there is still inequality and distraction.
 
-2. With an increased audience slope, some people's legs might be right behind the other people's heads. And since the screen is still in front of the audience, viewers should keep their heads upright. This posture induces neck pain, no matter how comfortable the seats are. So there is still discomfort.
+2. With an increased audience slope, some people's legs might be right behind the other people's heads. And since the screen is still in front of the audience, the viewers should keep their heads upright. This posture induces neck pain, no matter how comfortable the seats are. So there is still discomfort.
 
 
 
