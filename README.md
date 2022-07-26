@@ -30,7 +30,7 @@ But this startup failed and now it's an open source project. Any contributions t
 </p>
 
 ###
-The first movie theaters were converted from classic stage theaters more than 100 years ago. Since then, the theater design hasn't changed much. And just because of this design, almost all cinemas in the world have three serious drawbacks:
+The first movie theaters were converted from classic stage theaters more than 100 years ago. Since then, the theater design hasn't changed much. And just because of this "traditional" design, almost all cinemas in the world have three serious drawbacks:
 ###
 
 <p>
