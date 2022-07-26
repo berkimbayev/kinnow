@@ -96,25 +96,21 @@ The ergonomic theater design has three positive outcomes:⠀
 
 2. **No discomfort.** Again, since the screen is slightly raised and tilted, you are leaning back in the most comfortable sitting position, proven by research.*
 
+   `The research carried out using magnetic resonance imaging (MRI) at the Centre for Spinal Research in Aberdeen, revealed that the optimal sitting position was reclining back at 135 degrees. This position was shown to cause less strain on the lumbar spine, spinal disks, and associated muscles and tendons, compared with an upright sitting posture.`
+
+   `You are sitting straight all day at work. Your kids are sitting straight all day at school. But you don't need to sit straight in a movie theater. It's the place for you and your family to take a rest.`
+
 3. **More equality.** And again, since the screen is slightly raised and tilted, it is more distant from the first rows but closer to the last rows. This simple solution minimizes the difference between the rows.
 
 
 
 
 
-   `The research carried out using magnetic resonance imaging (MRI) at the Centre for Spinal Research in Aberdeen, revealed that the optimal sitting position was reclining back at 135 degrees. This position was shown to cause less strain on the lumbar spine, spinal disks, and associated muscles and tendons, compared with an upright sitting posture.`
+The main design problem at Kinnow was calculating an optimal angle of the screen tilt for a specific theater and specific number of viewers. Since many proposed Kinnow theaters will not be built from scratch but transformed from the existing theaters, you need to calculate the optimal angle and design the entire new theater every time. This calculation and design was my main *know-how*, since I studied Architecture and Civil Engineering. *Spoiler:* to make the work easier, I used Pythagorean Triples.
 
-   `You are sitting straight all day at work. Your kids are sitting straight all day at school. But you don't need to sit straight in a movie theater. It's the place for you and your family to take a rest.`
+To learn more about Pythagorean Triples, just check out this [Wikipedia article](https://en.wikipedia.org/wiki/Pythagorean_triple).
 
-
-
-
-
-The main design problem was calculating an optimal angle of the screen tilt for a specific theater and specific number of viewers. Since Kinnow theaters will not be built from scratch but transformed from the existing, traditional theaters, you need to calculate the optimal angle and design the entire theater every time. This calculation and design was my main *know-how* at Kinnow, since I studied Architecture and Civil Engineering. *Spoiler:* to make the work easier, I used Pythagorean Triples.
-
-To learn more about Pythagorean Triples, check out this [Wikipedia article](https://en.wikipedia.org/wiki/Pythagorean_triple).
-
-A proposed patent behind ergonomic theater design is available in the `Patent` folder. A 3D-model of the theater is available in the `Models` folder. It was made in SketchUp. Pythagorean Triples used in this model are available in the [respective file](https://github.com/berkimbayev/kinnow/blob/main/Models/pythagorean-triples.md).
+A proposed patent behind Kinnow and its ergonomic theater design is available in the `Patent` folder. A simple 3D-model of the theater is available in the `Models` folder. It was made in SketchUp. Pythagorean Triples used in this model are available in this [file](https://github.com/berkimbayev/kinnow/blob/main/Models/pythagorean-triples.md).
 
 
 
