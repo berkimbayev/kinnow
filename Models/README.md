@@ -5,4 +5,3 @@
 <p align="center"><img src="https://github.com/berkimbayev/kinnow/blob/main/Models/cinema-5.png" alt="Seating System"/></p>
 <p align="center"><img src="https://github.com/berkimbayev/kinnow/blob/main/Models/cinema-6.png" alt="Seating System"/></p>
 <p align="center"><img src="https://github.com/berkimbayev/kinnow/blob/main/Models/cinema-7.png" alt="Seating System"/></p>
-<p align="center"><img src="https://github.com/berkimbayev/kinnow/blob/main/Models/cinema-8.png" alt="Seating System"/></p>
